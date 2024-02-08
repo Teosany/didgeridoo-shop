@@ -1,7 +1,7 @@
 # didgeridoo-shop
 Didgeridoo shop developed as part of js/css/html learning experience
 
-View Live: [https://online-lib.zeabur.app/](https://didgeridoo-shop.zeabur.app/)
+View Live: https://didgeridoo-shop.zeabur.app/
 
 Online library includes all the basic required pages for operation and functional state for user and administrator.
 
